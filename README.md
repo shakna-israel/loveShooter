@@ -31,3 +31,11 @@ git clone https://github.com/shakna-israel/loveShooter
 ```
 love loveShooter
 ```
+
+---
+
+## Licensing
+
+The assets folder is covered by a [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) License, to Csaba Felvegi
+
+All other code and assets are covered by the [LICENSE](LICENSE) file.
